@@ -69,10 +69,10 @@
         ##'https://github.com/pronexo-argentina/pos_proxy_services.git -b 13.0',
         'https://github.com/OCA/contract.git -b 13.0',
         'https://github.com/odoomates/odooapps.git -b 13.0',
-        'https://github.com/OCA/project/tree/13.0',
-        'https://github.com/ingadhoc/purchase/tree/13.0',
-        'https://github.com/ingadhoc/product/tree/13.0',
-        'https://github.com/ingadhoc/website/tree/13.0',
+        'https://github.com/OCA/project -b 13.0',
+        'https://github.com/ingadhoc/purchase -b 13.0',
+        'https://github.com/ingadhoc/product -b 13.0',
+        'https://github.com/ingadhoc/website -b 13.0',
         
     ],
 
