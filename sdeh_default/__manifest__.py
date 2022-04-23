@@ -74,6 +74,7 @@
         'https://github.com/ingadhoc/product -b 13.0',
         'https://github.com/ingadhoc/website -b 13.0',
         'https://github.com/OCA/project-reporting -b 13.0',
+        'https://github.com/OCA/purchase-workflow -b 13.0',
     ],
 
     'docker-images': [
