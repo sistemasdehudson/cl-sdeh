@@ -79,6 +79,7 @@
         'https://github.com/filoquin/odoo_retail -b 13.0',
         'https://github.com/OCA/queue -b 13.0',
         'https://github.com/OCA/e-commerce -b 13.0',
+        'https://github.com/OCA/hr-attendance.git  -b 13.0',
     ],
 
     'docker-images': [
