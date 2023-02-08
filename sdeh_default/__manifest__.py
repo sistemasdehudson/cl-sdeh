@@ -83,6 +83,7 @@
         'https://github.com/OCA/social.git -b 13.0',
         'https://github.com/OCA/helpdesk -b 13.0',
         'https://github.com/OCA/management-system -b 13.0',
+        'https://github.com/OCA/knowledge -b 13.0',
     ],
 
     'docker-images': [
