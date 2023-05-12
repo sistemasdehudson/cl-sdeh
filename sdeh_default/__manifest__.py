@@ -84,6 +84,7 @@
         'https://github.com/OCA/helpdesk -b 13.0',
         'https://github.com/OCA/management-system -b 13.0',
         'https://github.com/OCA/knowledge -b 13.0',
+        'https://github.com/OCA/bank-statement-import -b 13.0',
     ],
 
     'docker-images': [
