@@ -85,6 +85,8 @@
         'https://github.com/OCA/management-system -b 13.0',
         'https://github.com/OCA/knowledge -b 13.0',
         'https://github.com/OCA/bank-statement-import -b 13.0',
+        ## hr
+        'https://github.com/ingadhoc/hr.git -b 13.0',
     ],
 
     'docker-images': [
