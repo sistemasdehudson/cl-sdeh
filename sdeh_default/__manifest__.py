@@ -87,6 +87,8 @@
         'https://github.com/OCA/bank-statement-import -b 13.0',
         ## hr
         'https://github.com/ingadhoc/hr.git -b 13.0',
+        ##modulos stock para remito
+        'https://github.com/OCA/stock-logistics-workflow.git -b 13.0',
     ],
 
     'docker-images': [
