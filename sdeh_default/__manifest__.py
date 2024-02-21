@@ -91,6 +91,7 @@
         'https://github.com/OCA/stock-logistics-workflow.git -b 13.0',
         'https://github.com/OCA/commission.git -b 13.0',
         'https://github.com/OCA/website -b 13.0 websiteoca',
+        'https://github.com/OCA/brand -b 13.0',
     ],
 
     'docker-images': [
